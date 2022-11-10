@@ -1,2 +1,1 @@
-# C21
-Ghost Game
+# C20
